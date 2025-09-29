@@ -21,7 +21,7 @@ Scott Aaronson, quantum np problem improvement with gpt5
 https://arxiv.org/pdf/2509.21131
 https://scottaaronson.blog/?p=9183 https://x.com/SebastienBubeck/status/1972368891239375078 https://x.com/kimmonismus/status/1972399015825203463
 
-Math Inc Christian szegedey, prime number theorem 
+Math Inc Christian szegedey, prime number theorem, formalization
 
 IMO gold medal
 
