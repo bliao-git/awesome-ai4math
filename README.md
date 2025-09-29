@@ -1,16 +1,18 @@
 # awesome-ai4math
 awesome-ai4math
 
-
-Def and Theorem/formula extraction from paper, ner 
-
-Dependency, def reliance, theorem def reliance, theorem proof reliance
-
 extensions/applied math: 
 - proba and stats/data science,
 - cs and ai,
 - finance and econ,
 - physics and natural science
+
+
+Def and Theorem/formula extraction from paper, ner 
+
+Dependency, def reliance, theorem def reliance, theorem proof reliance
+
+formal method, lean, auto formalization 
 
 # stories 
 
