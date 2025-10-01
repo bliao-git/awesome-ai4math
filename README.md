@@ -14,6 +14,11 @@ Dependency, def reliance, theorem def reliance, theorem proof reliance
 
 formal method, lean, auto formalization 
 
+math rag: 
+- text books, gtm, published papers 
+- some libgen tools: https://github.com/obsfx/libgen-downloader, https://github.com/ciehanski/libgen-cli
+
+
 # stories 
 
 Gödel test https://arxiv.org/pdf/2509.18383
