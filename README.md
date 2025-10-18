@@ -21,6 +21,8 @@ math rag:
 
 # stories 
 
+erdos problems https://mp.weixin.qq.com/s/8mgpDzDUxblzYdgbUqbWWg
+
 Gödel test https://arxiv.org/pdf/2509.18383
 https://arxiv.org/abs/2509.18383 https://x.com/tunedgradient/status/1970955153361850606
 
