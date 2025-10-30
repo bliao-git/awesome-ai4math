@@ -21,6 +21,9 @@ math rag:
 
 # stories 
 
+new program 
+https://mp.weixin.qq.com/s/VQVy2ay6k6zpj5U862o-1A
+
 erdos problems https://mp.weixin.qq.com/s/8mgpDzDUxblzYdgbUqbWWg
 
 Gödel test https://arxiv.org/pdf/2509.18383
